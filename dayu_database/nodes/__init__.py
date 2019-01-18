@@ -6,3 +6,4 @@ __author__ = 'andyguo'
 from base import *
 from project import *
 from sequence import *
+from user import *

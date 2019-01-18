@@ -7,5 +7,5 @@ from neomodel import RelationshipTo, RelationshipFrom
 from dayu_database.nodes.base import BaseNode
 
 
-class Sequence(BaseNode):
-    project = RelationshipFrom('dayu_database.nodes.project.Project', 'HAS')
+class Cache(BaseNode):
+    pass
